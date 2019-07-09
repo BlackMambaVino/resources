@@ -799,7 +799,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 }
 #reply_container .inline_message_input_container .message_input div, #reply_container .inline_message_input_container textarea, .reply_input_container .inline_message_input_container .message_input div, .reply_input_container .inline_message_input_container textarea{
 	colo:#e5e5e5 !important;
-	opacity:1 !important;
+	opacity: .4 !important;
 }
 .c-timestamp__label{
 	color: #80d0ff !important;
@@ -880,17 +880,17 @@ a.c-message__sender_link{
 	color: #36D4F6!important;
 }
 .c-message .c-button--primary{
-	background-color: #499fcc;
+	background-color: #00719b;
 }
 .c-message_kit__file__meta__text {
 	font-size: 12px;
 	color: #949494 !important;
 }
 .msg_input_btn {
-	background-color: #499fcc !important;
+	background-color: #00719b !important;
 }
 .p-threads_footer__input--legacy .p-message_input_file_button{
-	background-color: #499fcc !important;
+	background-color: #00719b !important;
 	color: #e5e5e5;
 }
 .sli_briefing{
@@ -1841,7 +1841,7 @@ c-keyboard_key {
 	background: #0c77bb !important;
 }
 #msg_form .ql-editor, #msg_form .ql-placeholder{
-	opacity:0.4;
+	opacity:0.2;
 	color:#e5e5e5
 }
 .supports_custom_scrollbar .texty_legacy .ql-editor, .supports_custom_scrollbar .texty_legacy .ql-placeholder {
