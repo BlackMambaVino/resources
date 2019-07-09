@@ -1841,7 +1841,7 @@ c-keyboard_key {
 	background: #0c77bb !important;
 }
 #msg_form .ql-editor, #msg_form .ql-placeholder{
-	opacity:0.6;
+	opacity: .8;
 	color:#e5e5e5
 }
 .supports_custom_scrollbar .texty_legacy .ql-editor, .supports_custom_scrollbar .texty_legacy .ql-placeholder {
