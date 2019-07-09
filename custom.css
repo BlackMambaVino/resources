@@ -33,7 +33,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
 	line-height: 18px;
 	opacity: 0;
-	color: #80d0ff !important;
+	color: #499fcc !important;
 }
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),.p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider {
 	z-index: 0;
@@ -132,7 +132,7 @@ a {
 	color: #e5e5e5 !important;
 }
 .c-member_slug--mention,.c-member_slug--mention:hover {
-	background: #80d0ff !important;
+	background: #499fcc !important;
 	color: black !important;
 }
 #convo_tab .message_input,#convo_tab textarea#msg_text {
@@ -368,12 +368,12 @@ p-search_filter__date:first-child {
 	color: #e5e5e5;
 }
 .c-message--light .c-message__sender .c-message__sender_link {
-	color: #499fcc !important;
+	color: #80d0ff !important;
 	font-weight: 700 !important;
 	font-size: 14px !important;
 }
 .light_theme ts-message .message_content .message_sender {
-	color: #499fcc !important;
+	color: #80d0ff !important;
 	text-transform: capitalize;
 	font-weight: 700 !important;
 }
@@ -816,7 +816,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 	color: #e5e5e5 !important;
 }
 a.c-message__sender_link{
-	color: #499fcc !important;
+	color: #80d0ff !important;
 }
 .ql-editor[aria-label]{
 	color: #e5e5e5 !important;
