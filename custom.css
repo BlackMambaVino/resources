@@ -33,7 +33,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
 	line-height: 18px;
 	opacity: 0;
-	color: #68c1ff !important;
+	color: #80d0ff !important;
 }
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),.p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider {
 	z-index: 0;
@@ -82,7 +82,7 @@ a {
 	background: transparent
 }
 .btn {
-	background: #2691cc;
+	background: #499fcc;
 	color: #fff;
 	line-height: 1.2rem;
 	font-weight: 900;
@@ -115,14 +115,14 @@ a {
 }
 .c-member_slug--link {
 	background: transparent;
-	color: #68c1ff!important;
+	color: #80d0ff!important;
 	font-weight: 600 !important;
 	border: none !important;
 	font-size:13px;
 	padding: 0px 2px 1px 2px;
 }
 .c-member_slug--link:hover {
-	background: #de5ea2;
+	background: #499fcc;
 	color:#e5e5e5 !important
 }
 .menu_content a {
@@ -132,7 +132,7 @@ a {
 	color: #e5e5e5 !important;
 }
 .c-member_slug--mention,.c-member_slug--mention:hover {
-	background: #68c1ff !important;
+	background: #80d0ff !important;
 	color: black !important;
 }
 #convo_tab .message_input,#convo_tab textarea#msg_text {
@@ -142,8 +142,8 @@ a {
 	color: #e5e5e5 !important;
 }
 .upload_in_threads .inline_message_input_container:hover .inline_file_upload,.upload_in_threads.has_focus .inline_message_input_container .inline_file_upload {
-	background: #2691cc !important;
-	border: 2px solid #2691cc !important;
+	background: #499fcc !important;
+	border: 2px solid #499fcc !important;
 	color: #e5e5e5 !important;
 }
 #primary_file_button:hover {
@@ -157,8 +157,8 @@ a {
 	left: 0;
 	width: 44px;
 	padding: 0;
-	border: 2px solid #2691cc !important;
-	background: #2691cc !important;
+	border: 2px solid #499fcc !important;
+	background: #499fcc !important;
 	color: #e5e5e5 !important;
 	line-height: 42px;
 	text-shadow: none;
@@ -169,7 +169,7 @@ a {
 	border-radius: 6px 0 0 6px;
 }
 .inline_file_upload {
-	background: #2691cc !important;
+	background: #499fcc !important;
 	color: #e5e5e5 !important;
 }
 .p-share_dialog_message_input {
@@ -368,12 +368,12 @@ p-search_filter__date:first-child {
 	color: #e5e5e5;
 }
 .c-message--light .c-message__sender .c-message__sender_link {
-	color: #2691cc !important;
+	color: #499fcc !important;
 	font-weight: 700 !important;
 	font-size: 14px !important;
 }
 .light_theme ts-message .message_content .message_sender {
-	color: #2691cc !important;
+	color: #499fcc !important;
 	text-transform: capitalize;
 	font-weight: 700 !important;
 }
@@ -779,7 +779,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 .p-threads_footer__input--legacy .p-message_input_plus {
 	border: 1px solid transparent !important;
 	border-radius: 4px 0 0 4px;
-	background: #2691cc !important;
+	background: #499fcc !important;
 }
 .ql-editor [aria-label] {
 	color:#e5e5e5 !important;
@@ -802,7 +802,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 	opacity:1 !important;
 }
 .c-timestamp__label{
-	color: #68c1ff !important;
+	color: #80d0ff !important;
 }
 .c-message__sender{
 	color:#00649b !important
@@ -816,7 +816,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 	color: #e5e5e5 !important;
 }
 a.c-message__sender_link{
-	color: #2691cc !important;
+	color: #499fcc !important;
 }
 .ql-editor[aria-label]{
 	color: #e5e5e5 !important;
@@ -880,17 +880,17 @@ a.c-message__sender_link{
 	color: #36D4F6!important;
 }
 .c-message .c-button--primary{
-	background-color: #2691cc;
+	background-color: #499fcc;
 }
 .c-message_kit__file__meta__text {
 	font-size: 12px;
 	color: #949494 !important;
 }
 .msg_input_btn {
-	background-color: #2691cc !important;
+	background-color: #499fcc !important;
 }
 .p-threads_footer__input--legacy .p-message_input_file_button{
-	background-color: #2691cc !important;
+	background-color: #499fcc !important;
 	color: #e5e5e5;
 }
 .sli_briefing{
@@ -1769,7 +1769,7 @@ c-keyboard_key {
 	background: #212121;
 }
 .btn {
-	background: #2691cc;
+	background: #499fcc;
 	color: #fff !important;
 }
 .c-button-unstyled:active, .c-button-unstyled:focus, .c-button-unstyled:hover {
@@ -2243,7 +2243,7 @@ channel_invite_tokens input {
 	color: #8bb1ff;
 }
 .cm-s-default .cm-comment {
-	color: #7a7a7a;
+	color: #cccccc;
 }
 .cm-s-default .cm-string-2 {
 	color: #ffa081;
