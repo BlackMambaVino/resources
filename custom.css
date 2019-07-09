@@ -23,7 +23,7 @@ div.c-message.c-message--light.c-message--hover {
 	font-size: 14px !important;
 }
 span.c-message__body,a.c-message__sender_link,span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,div.p-message_pane__foreword__description span {
-	color: #e5e5e5;
+	color: #e0e0e0;
 	font-size: 14px;
 	letter-spacing: 0.3px !important;
 }
@@ -33,7 +33,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
 	line-height: 18px;
 	opacity: 0;
-	color: #499fcc !important;
+	color: #00719b !important;
 }
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),.p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider {
 	z-index: 0;
@@ -62,7 +62,7 @@ div.c-virtual_list__scroll_container {
 }
 .c-dialog__header {
 	background: #2b2b2b!important;
-	color: #e5e5e5;
+	color: #e0e0e0;
 }
 .c-dialog__footer {
 	background: #2b2b2b!important;
@@ -654,7 +654,7 @@ a.file_download_link:hover {
 	background: #e5e5e5;
 }
 .c-calendar_view_header__stepper_btn, .c-calendar_view_header__title_btn i{
-	color: #e5e5e5 !important;
+	color: #f0f0f0 !important;
 }
 .c-calendar_view_header__stepper_btn:hover, .c-calendar_view_header__title_btn:hover {
 	background-color: #565656 !important;
@@ -802,7 +802,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 	opacity: .4 !important;
 }
 .c-timestamp__label{
-	color: #80d0ff !important;
+	color: #00719b !important;
 }
 .c-message__sender{
 	color:#00649b !important
@@ -1199,7 +1199,7 @@ code{
 	background-color: #424242;
 }
 .fs_modal_file_viewer_header .control_btn, .fs_modal_file_viewer_header .control_btn:link, .fs_modal_file_viewer_header .control_btn:visited, .fs_modal_file_viewer_header a.control_btn, .fs_modal_file_viewer_header a.control_btn:link, .fs_modal_file_viewer_header a.control_btn:visited{
-	color:#e5e5e5
+	color:#f0f0f0;
 }
 .fs_modal_file_viewer_content .viewer{
 	background:#232323;
@@ -1382,7 +1382,7 @@ pre{
 }
 .c-calendar_view_header__stepper_btn:hover, .c-calendar_view_header__title_btn:hover {
 	background-color: #4a3f3f !important;
-	color: #e5e5e5;
+	color: #f0f0f0;
 }
 .p-search_filter__checkbox_label--selected {
 	font-weight: 700;
