@@ -2,7 +2,7 @@
 
 body {
    font-family: 'Lato', sans-serif !important;
-    text-rendering: optimizeLegibility important;
+    text-rendering: optimizeLegibility !important;
     word-spacing: -1px;
     /*-webkit-font-smoothing: auto;*/
     -webkit-font-smoothing: antialiased;
@@ -226,26 +226,26 @@ ts-message .mention {
 }
 .c-search__input_and_close {
     background: #2b2c2e!important;
-    color #f5f5f5 !important;
+    color: #f5f5f5 !important;
 }
 .c-search__input_box {
-    background: #2b2c2e!important;
-    color #f5f5f5 !important;
+    background: #2b2c2e !important;
+    color: #f5f5f5 !important;
 }
 
 .c-search_autocomplete {
     background: #232323!important;
-    color #f5f5f5 !important;
+    color: #f5f5f5 !important;
 }
 .c-search_autocomplete footer {
     background: #3B3B3B!important;
-    color #f5f5f5 !important;
+    color: #f5f5f5 !important;
 }
 .c-search_autocomplete__suggestion_text {
-    color #f5f5f5 !important;
+    color: #f5f5f5 !important;
 }
 .c-search_autocomplete__suggestion_content .c-search_autocomplete__suggestion_text {
-    color #f5f5f5 !important;
+    color: #f5f5f5 !important;
 }
 .c-search_autocomplete header {
     background: #232323!important;
