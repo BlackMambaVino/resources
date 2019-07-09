@@ -742,9 +742,9 @@ a.file_download_link:hover {
     }
 .c-date_picker_calendar__date--is_selected {
         background-color: #0576b9 !important;
-        color: #ffffff;}
+        color: #f5f5f5;}
 .p-block_kit_date_picker_calendar_wrapper .c-date_picker_calendar__date--disabled, .p-block_kit_date_picker_calendar_wrapper .c-mini_calendar__month_button:disabled {
-            background: #ffffff;
+            background: #f5f5f5;
 }
 #team_tab #member_preview_scroller .feature_custom_status_expiry.member_details .member_name {
 color: #f5f5f5 !important;
@@ -877,10 +877,10 @@ color:#2691cc !important
 }
     .c-dialog__footer .c-button {
         background-color: #2ead5c;
-        color: #ffffff;}
+        color: #f5f5f5;}
 .btn_outline.hover, .btn_outline:focus, .btn_outline:hover {
             background: black !important;
-            color: #ffffff !important;
+            color: #f5f5f5 !important;
         }
         a.c-message__sender_link{
             color: #2691cc !important;
@@ -895,9 +895,9 @@ color:#2691cc !important
         .thrills_purple {
             color: #ff3636!important;}
             .feature_channel_browser_dropdown .show_which_channels_container .lfs_input_container .selected {
-                color: #ffffff;}
+                color: #f5f5f5;}
                 .feature_channel_browser_dropdown .channel_browser_sort_container .lfs_input_container .selected, .feature_channel_browser_dropdown .show_which_channels_container .lfs_input_container .selected{
-                    color: #ffffff; 
+                    color: #f5f5f5; 
                 }
                 .menu ul li a:not(.inline_menu_link) {
                     color: #e6e6e6 !important;
@@ -974,7 +974,7 @@ color:#2691cc !important
                             border: 1px solid #000;
                         }
                         .sli_briefing_view__footer_title {
-                            color: #ffffff;
+                            color: #f5f5f5;
                         }
                         .sli_briefing__justification {
                             color: #bfbfbf;}
@@ -982,7 +982,7 @@ color:#2691cc !important
                                 border-bottom: 1px solid #000;
                                 background-color: #3b3b3b;}
                                 .sli_briefing__title {
-                                    color: #ffffff;
+                                    color: #f5f5f5;
                                 }
                                 .sli_briefing__feedback_controls{
                                     color: #969696;
@@ -1034,7 +1034,7 @@ color:#2691cc !important
                                                         color: rgba(255, 255, 255, 0.7);
                                                     }
                                                     .c-icon_button--light.c-button-unstyled:hover, .c-icon_button--light:hover, .c-icon_button--light:link:hover {
-                                                        color: #ffffff;
+                                                        color: #f5f5f5;
                                                     }
                                                     .c-fullscreen_modal__header {
                                                         background: #2b2b2b;}
@@ -1063,9 +1063,9 @@ color:#2691cc !important
                                                                                 border-top: 1px solid #525252;
                                                                             }
                                                                             .c-archive_footer__metadata {
-                                                                                color: #ffffff;}
+                                                                                color: #f5f5f5;}
                                                                                 .c-archive_footer__title {
-                                                                                    color: #ffffff;}
+                                                                                    color: #f5f5f5;}
                                                                                     .c-message_kit__labels__text, .c-icon, .c-menu_item__link_icon, .c-menu_item__shortcut{
                                                                                         color:#f5f5f5;
                                                                                     }
@@ -1092,7 +1092,7 @@ color:#2691cc !important
     
 .channel_title .channel_name {
 
-    color: #ffffff;}
+    color: #f5f5f5;}
     
     #footer{
      background: #2b2b2b;
@@ -1148,7 +1148,7 @@ color:#2691cc !important
     
     .menu_member_header .member_details .member_current_status, .menu_member_header .member_details .member_timezone_value{
         background: #5b5b5b;
-            color: #ffffff;
+            color: #f5f5f5;
     }
     .menu_member_footer{
     border-top: 1px solid #000
@@ -1183,7 +1183,7 @@ color:#2691cc !important
      color:#f5f5f5;}
      .c-tabs__tab.c-tabs__tab--active, .c-tabs__tab:active {
     outline: 0;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .c-search__tab.c-tabs__tab.c-tabs__tab--active, .c-search__tab.c-tabs__tab.c-tabs__tab--active:active, .c-search__tab.c-tabs__tab.c-tabs__tab--active:focus {
     border-radius: 0;
     box-shadow: inset 0 -2px 0 0 #ff0000;
@@ -1260,7 +1260,7 @@ color:#2691cc !important
     line-height: .9rem;
     padding: .6rem .7rem .8rem 0;
     background: #3a3a3a;
-    color: #ffffff;}
+    color: #f5f5f5;}
     
     #details_tab .feature_sli_channel_insights .edit_purpose--blank{
     color:#f5f5f5;}
@@ -1309,14 +1309,14 @@ background:black;}
     border-bottom: 1px solid #000;}
     #flex_contents .help {
     font-size: 1rem;
-    color: #ffffff;
+    color: #f5f5f5;
     line-height: 1.3rem;
     padding-top: 1rem;
     border-top: 5px solid #ea5218;}
     #menu.search_filter_menu label{
     color:#f5f5f5;}
     .channel_header .blue_on_hover:hover {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .menu{
     background: #414141;}
     #msg_input.focus, #msg_input:focus{
@@ -1332,7 +1332,7 @@ background:black;}
     #edit_topic_trigger {
     display: none;
     visibility: hidden;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .channel_header_info button{
 color:#f5f5f5;}
 .channel_header .blue_on_hover:hover{
@@ -1345,7 +1345,7 @@ color:#f5f5f5;}
     text-align: center;
     padding-top: 24px;
     padding-bottom: 32px;
-    color: #ffffff;
+    color: #f5f5f5;
     background-image: url(https://a.slack-edge.com/436da/img/wave.jpg);
     background-position: 0 100%;
     background-repeat: repeat-x;
@@ -1376,20 +1376,20 @@ color:#f5f5f5;}
     color: #f5f5f5;}
     .c-input_select_options_list__empty_state {
     display: block;
-    text-overflow: ellipsis;
+    /*text-overflow: ellipsis;*/
     overflow: hidden;
     white-space: nowrap;
-    color: #ffffff;}
+    color: #f5f5f5;}
     #fs_modal .contents_container {
     position: absolute;
     background: #3c3c3c;
     color: #f5f5f5 !important;}
     .ts_toggle .ts_toggle_secondary_label {
     display: inline-block;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .modal_input_note {
     font-size: .8rem;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .greigh {
     color: #fda792!important;}
     #new_channel_modal input[type=text], #new_channel_modal textarea, .p-share_channel_dialog__contents input[type=text], .p-share_channel_dialog__contents textarea {
@@ -1415,7 +1415,7 @@ color:#f5f5f5;}
     .input_note_special {
     font-size: .9rem;
     line-height: 1.25rem;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .btn{
         text-shadow: none;}
         .plastic_select, input[type=url], input[type=text], input[type=tel], input[type=number], input[type=email], input[type=password], select, textarea{
@@ -1424,18 +1424,18 @@ color:#f5f5f5;}
     background-color: #000000;
     border-color: #000000;}
     .subtle_silver {
-    color: #ffffff!important;}
+    color: #f5f5f5!important;}
     .black{font-weight:700 !important;}
     #details_tab .feature_sli_channel_insights .channel_created_section .creator_link, #details_tab .feature_sli_channel_insights .channel_purpose_section .channel_purpose_text{color:#f5f5f5}
     .btn_link {
     color: #b2ddff;}
     #channel_browser .channel_browser_row_header {
-    color: #ffffff;}
+    color: #f5f5f5;}
     #channel_browser #channel_list_container:not(.keyboard_active).not_scrolling .channel_browser_row:hover, #channel_browser .channel_browser_row.highlighted {
     background: #232323;
     border: 1px solid #000000;}
     .sk_black {
-    color: #ffffff;}
+    color: #f5f5f5;}
     #channel_browser .channel_browser_channel_created_info, #channel_browser .channel_browser_channel_invite_info, #channel_browser .channel_browser_channel_shared_info, #channel_browser .channel_browser_private_channel_rollup_info {
     font-size: 13px;
     line-height: 1.38463;
@@ -1448,7 +1448,7 @@ color:#f5f5f5;}
     padding-top: .65rem;
     background: transparent;}
     #channel_browser .channel_browser_divider {
-    color: #ffffff;
+    color: #f5f5f5;
     font-size: 14px;
     width: 100%;
     padding: 4px 0 4px 12px;
@@ -1483,7 +1483,7 @@ color:#f5f5f5;}
     background: transparent;
 }
 .charcoal_grey {
-    color: #ffffff!important;}
+    color: #f5f5f5!important;}
     .alert {
     padding: .75rem 1rem .75rem 3rem;
     border: 1px solid #ddd;
@@ -1495,7 +1495,7 @@ color:#f5f5f5;}
  text-shadow:none}
  
  .btn_link:focus, .btn_link:hover {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .uneditable-input, input[type=text], input[type=password], input[type=datetime], input[type=datetime-local], input[type=date], input[type=month], input[type=time], input[type=week], input[type=number], input[type=email], input[type=url], input[type=tel], input[type=color], input[type=search], textarea{
     border-radius:0 !important; background: #2b2b2b;}
     .searchable_member_list_filter .faux_input {
@@ -1520,7 +1520,7 @@ color:#f5f5f5;}
     #whats_new_tab p {
     font-size: 15px;
     line-height: 22px;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .indifferent_grey {
     color: #f5f5f5 !important;}
     .bottom_border {
@@ -1539,7 +1539,7 @@ color:#f5f5f5;}
     line-height: 1.46666667;
     overflow-y: auto;
     padding: 15vh 32px 32px 32px;
-    color: #ffffff;
+    color: #f5f5f5;
     background: #3c3c3c;}
     .c-filter_input__input[type=text][placeholder] {
     background: transparent;
@@ -1552,13 +1552,13 @@ color:#f5f5f5;}
     outline: none;
     background-color: transparent;}
     .p-help_modal__popular_topics {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .p-shortcuts_flexpane__shortcut_title {
     flex-grow: 1;
     padding: 6px 0 6px 0;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .p-shortcuts_flexpane__shortcut_hoverable .p-shortcuts_flexpane__shortcut_title {
-    color: #ffffff;}
+    color: #f5f5f5;}
     
     .p-help_modal__list__item {
   
@@ -1608,9 +1608,9 @@ color:#f5f5f5;}
     height: 27px;
     margin: 0 2px;
     border-radius: 5px;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .p-message_pane__foreword__description, .p-message_pane__limited_history_alert {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .modal{
     background:#3c3c3c;}
     .c-button-unstyled:active, .c-button-unstyled:focus, .c-button-unstyled:hover {
@@ -1629,7 +1629,7 @@ color:#f5f5f5;}
     height: 27px;
     margin: 0 2px;
     border-radius: 5px;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .p-multi_file_upload__container .p-galler_scroller__wrapper {
     background: #3c3c3c;}
     .c-dialog__body {
@@ -1653,7 +1653,7 @@ color:#f5f5f5;}
 .modal-footer {
     background: #232323;}
     .modal label {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .CodeMirror-scroll {
     background: black;
     color: #f5f5f5;}
@@ -1666,7 +1666,7 @@ color:#f5f5f5;}
     background: #444446;
     color: #f5f5f5 !important;}
     .CodeMirror .CodeMirror-linenumber {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .lazy_filter_select.single .lfs_input_container:after {
  
     color: #f5f5f5;}
@@ -1684,7 +1684,7 @@ color:#f5f5f5;}
  
     background-color: hsla(0, 0%, 0%, 0.9);}
     .c-file__action_button, .c-file__action_button:link, .c-file__action_button:visited {
-    color: #ffffff!important;}
+    color: #f5f5f5!important;}
     .CodeMirror {
     position: relative;
     overflow: hidden;
@@ -1692,13 +1692,13 @@ color:#f5f5f5;}
     .c-pillow_file__snippet__content .CodeMirror {
     height: auto;
     border: none;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .c-pillow_file__snippet__content .CodeMirror-code>div:before {
  
     color: rgb(255, 101, 101);}
     .p-channel_sidebar__section_heading_label--clickable:hover{background:transparent}
     .c-message__label__highlight_title {
-    color: #ffffff;
+    color: #f5f5f5;
     font-weight: 700;}
     .c-message--sli_highlight .c-message__label__icon {
     color: #ffd452;}
@@ -1750,7 +1750,7 @@ color:#f5f5f5;}
     font-size: 1rem;
     line-height: 1.2rem;
     background: TRANSPARENT;
-    color: #ffffff;
+    color: #f5f5f5;
     padding-bottom: .5rem;}
     .p-apps_browser__app {
     display: flex;
@@ -1763,7 +1763,7 @@ color:#f5f5f5;}
     background: #2b2b2b;
     border: 1px solid #000;}
     .p-apps_browser__app_limit_meter b {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .p-apps_browser__app_limit_meter__paragraph {
     color: #cecece;}
     .pinned_item .pinned_message_text {
@@ -1801,7 +1801,7 @@ color:#f5f5f5;}
     background-color: #3c3c3c;
     border-color: #000000;}
     .p-channel_page_apps__list__row:hover {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .active .tab_container .file_list_item {
     background-color: #000;}
     .tab_complete_ui {
@@ -1822,9 +1822,9 @@ color:#f5f5f5;}
     background: #2b5043;}
     #select_share_channels .lazy_filter_select .lfs_value .lfs_item.selected {
     height: 28px;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .modal .close {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .p-search_filter__checkbox_label {
     color: #f5f5f5;}
     .modal .close:hover{
@@ -1848,7 +1848,7 @@ color:#f5f5f5;}
 
     color: wheat;}
     .c-dialog__close:hover {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .c-alert--inline, .c-alert--nested_box {
     color: #e7e7e7;}
     [lang] .c-message_attachment__body {
@@ -1869,7 +1869,7 @@ background-color:black}
 .c-select_button:active {
     background-color: #000000;}
     .c-select_button:active .c-select_button__icon, .c-select_button:hover .c-select_button__icon {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .p-prefs_modal__notification_example.p-prefs_modal__notification_example--mac {
     background: #5d5d5d;}
     #team_tab #member_preview_scroller .member_details .member_name {
@@ -1892,7 +1892,7 @@ border: 1px solid transparent !important;
     background-color: transparent;
     color: #f5f5f5;}
     .c-reaction--reacted .c-reaction__count {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .c-reaction__count {
     color: #f5f5f5 !important;}
     .light_theme ts-message .message_body {
@@ -1906,7 +1906,7 @@ border: 1px solid transparent !important;
     box-sizing: content-box;
     border-top: 1px solid #000;
     background: #363636;
-    color: #ffffff;}
+    color: #f5f5f5;}
     .ts_icon:before, ts-icon:before {
     color: #f5f5f5;
     }
@@ -1942,7 +1942,7 @@ color:#acacac;}
     color: #5b5b5b !important;}
   
     .c-icon {
-    color: #ffffff;}
+    color: #f5f5f5;}
     .p-channel_sidebar__link--selected{
     background: #2e2e2e !important;
     }
@@ -1959,7 +1959,7 @@ padding-top:2px;}
     background: #2b2b2b;
     border: 1px solid #000000;}
     #fs_modal .fs_modal_btn:hover {
-    color: #ffffff;
+    color: #f5f5f5;
     background: #2b2b2b;}
     .c-message__label {
     color: #34ffdc;}
@@ -2099,10 +2099,10 @@ background-color: #343434 !important;
     .supports_custom_scrollbar #flex_contents .subheading:not(:empty){
     width:100% !important}
 ts-message .internal_member_link:hover {
-    color: #ffffff !important;
+    color: #f5f5f5 !important;
     background: #7b3ac2;}
 .c-message_attachment__pretext {
-    color: #ffffff;
+    color: #f5f5f5;
 }
 .c-app_badge, .c-app_label {
     border-radius: 2px;
