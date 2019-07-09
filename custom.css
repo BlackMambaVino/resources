@@ -805,7 +805,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 	color: #68c1ff !important;
 }
 .c-message__sender{
-	color:#2691cc !important
+	color:#00649b !important
 }
 .c-dialog__footer .c-button {
 	background-color: #2ead5c;
