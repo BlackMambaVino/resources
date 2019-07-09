@@ -106,7 +106,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // Fetch our CSS in parallel ahead of time
   //const cssPath = 'https://raw.githubusercontent.com/caiceA/slack-raw/master/css';
   const cssPath = 'https://raw.githubusercontent.com/BlackMambaVino/resources/master/custom.css';
-  const localCssPath = 'https://github01.innout.corp/raw/UX/SlackDarkTheme/master/custom?token=AAAADEFGyxuLdTEIZD27DWUwrdgmXvtaks5dLgMUwA%3D%3D';
+  const localCssPath = 'local.css';
   let cssPromise = fetch(cssPath).then(response => response.text());
 
   let customCustomCSS = `
