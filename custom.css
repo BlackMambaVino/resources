@@ -115,7 +115,7 @@ a {
 }
 .c-member_slug--link {
 	background: transparent;
-	color: #80d0ff!important;
+	color: #9cdcfe!important;
 	font-weight: 600 !important;
 	border: none !important;
 	font-size:13px;
@@ -368,12 +368,12 @@ p-search_filter__date:first-child {
 	color: #e5e5e5;
 }
 .c-message--light .c-message__sender .c-message__sender_link {
-	color: #80d0ff !important;
+	color: #9cdcfe !important;
 	font-weight: 700 !important;
 	font-size: 14px !important;
 }
 .light_theme ts-message .message_content .message_sender {
-	color: #80d0ff !important;
+	color: #9cdcfe !important;
 	text-transform: capitalize;
 	font-weight: 700 !important;
 }
@@ -816,7 +816,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 	color: #e5e5e5 !important;
 }
 a.c-message__sender_link{
-	color: #80d0ff !important;
+	color: #9cdcfe !important;
 }
 .ql-editor[aria-label]{
 	color: #e5e5e5 !important;
@@ -880,17 +880,17 @@ a.c-message__sender_link{
 	color: #36D4F6!important;
 }
 .c-message .c-button--primary{
-	background-color: #00719b;
+	background-color: #569cd6;
 }
 .c-message_kit__file__meta__text {
 	font-size: 12px;
 	color: #949494 !important;
 }
 .msg_input_btn {
-	background-color: #00719b !important;
+	background-color: #569cd6 !important;
 }
 .p-threads_footer__input--legacy .p-message_input_file_button{
-	background-color: #00719b !important;
+	background-color: #569cd6 !important;
 	color: #e5e5e5;
 }
 .sli_briefing{
