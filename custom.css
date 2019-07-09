@@ -33,7 +33,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
 	line-height: 18px;
 	opacity: 0;
-	color: #00719b !important;
+	color: #757575 !important;
 }
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),.p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider {
 	z-index: 0;
@@ -799,10 +799,10 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 }
 #reply_container .inline_message_input_container .message_input div, #reply_container .inline_message_input_container textarea, .reply_input_container .inline_message_input_container .message_input div, .reply_input_container .inline_message_input_container textarea{
 	colo:#e5e5e5 !important;
-	opacity: .4 !important;
+	opacity: 1 !important;
 }
 .c-timestamp__label{
-	color: #00719b !important;
+	color: #757575 !important;
 }
 .c-message__sender{
 	color:#00649b !important
@@ -1841,7 +1841,7 @@ c-keyboard_key {
 	background: #0c77bb !important;
 }
 #msg_form .ql-editor, #msg_form .ql-placeholder{
-	opacity:0.2;
+	opacity:0.6;
 	color:#e5e5e5
 }
 .supports_custom_scrollbar .texty_legacy .ql-editor, .supports_custom_scrollbar .texty_legacy .ql-placeholder {
