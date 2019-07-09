@@ -77,7 +77,7 @@ a {
 	color: #36D4F6!important;
 }
 .comment .app_preview_link_slug,.comment .internal_member_link,.comment .internal_user_group_link,.comment .mention,.ql-editor .app_preview_link_slug,.ql-editor .internal_member_link,.ql-editor .internal_user_group_link,.ql-editor .mention,ts-message .app_preview_link_slug,ts-message .internal_member_link,ts-message .internal_user_group_link,ts-message .mention {
-	color: #ccc !important;
+	color: #f5f5f5 !important;
 	font-size: 14px;
 	background: transparent
 }
