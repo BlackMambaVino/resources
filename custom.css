@@ -4,7 +4,8 @@ body {
    font-family: 'Lato', sans-serif !important;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
-    -webkit-font-smoothing: auto;
+    /*-webkit-font-smoothing: auto;*/
+    -webkit-font-smoothing: antialiased;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
    font-family: 'Lato', sans-serif !important;
