@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 body {
-   font-family: 'Muli', sans-serif !important;
+   font-family: 'Open Sans', sans-serif !important;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
-   font-family: 'Muli', sans-serif !important;
+   font-family: 'Open Sans', sans-serif !important;
 }
 .p-threads_footer__input--legacy .p-message_input_field .ql-editor {
-  font-family: 'Muli', sans-serif !important;
+  font-family: 'Open Sans', sans-serif !important;
 }
 div.c-message.c-message--light.c-message--hover {
     color: grey !important;
@@ -34,7 +34,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
     line-height: 18px;
     opacity: 0;
-    color: #ffb088 !important;}
+    color: #68c1ff !important;}
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),
 .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider {
     z-index: 0;
@@ -95,12 +95,12 @@ ts-message .app_preview_link_slug,
 ts-message .internal_member_link,
 ts-message .internal_user_group_link,
 ts-message .mention {
-   color: #fecd8a !important;
+   color: #68c1ff !important;
     font-size: 14px;
    background: transparent
 }
 .btn {
-    background: #008952;
+    background: #2691cc;
     color: #fff;
     line-height: 1.2rem;
     font-weight: 900;
@@ -136,7 +136,7 @@ ts-message .mention {
 }
 .c-member_slug--link {
       background: transparent;
-   color: #fcc973!important;
+   color: #68c1ff!important;
     font-weight: 600 !important;
     border: none !important;
     font-size:13px;
@@ -152,7 +152,7 @@ ts-message .mention {
 }
 .c-member_slug--mention,
 .c-member_slug--mention:hover {
-    background: #fbd9a5 !important;
+    background: #68c1ff !important;
     color: black !important;
 }
 #convo_tab .message_input,
@@ -164,8 +164,8 @@ ts-message .mention {
 }
 .upload_in_threads .inline_message_input_container:hover .inline_file_upload,
 .upload_in_threads.has_focus .inline_message_input_container .inline_file_upload {
-    background: #008952 !important;
-    border: 2px solid #008952 !important;
+    background: #2691cc !important;
+    border: 2px solid #2691cc !important;
     color: white !important;
 }
 #primary_file_button:hover {
@@ -179,8 +179,8 @@ ts-message .mention {
     left: 0;
     width: 44px;
     padding: 0;
-    border: 2px solid #008952 !important;
-    background: #008952 !important;
+    border: 2px solid #2691cc !important;
+    background: #2691cc !important;
     color: white !important;
     line-height: 42px;
     text-shadow: none;
@@ -191,7 +191,7 @@ ts-message .mention {
     border-radius: 6px 0 0 6px;
 }
 .inline_file_upload {
-    background: #008952 !important;
+    background: #2691cc !important;
     color: white !important;
 }
 .p-share_dialog_message_input {
@@ -405,12 +405,12 @@ p-search_filter__date:first-child {
     color: white;
 }
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #a4d677 !important;
+    color: #2691cc !important;
     font-weight: 700 !important;
     font-size: 14px !important;
 }
 .light_theme ts-message .message_content .message_sender {
-    color:  #a4d677 !important;
+    color:  #2691cc !important;
     text-transform: capitalize;
     font-weight: 700 !important;
 }
@@ -848,7 +848,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 .p-threads_footer__input--legacy .p-message_input_plus {
     border: 1px solid transparent !important;
     border-radius: 4px 0 0 4px;
-    background: #008952 !important;}
+    background: #2691cc !important;}
     .ql-editor [aria-label] {
 color:white !important;
 }
@@ -870,10 +870,10 @@ color:white !important;
     opacity:1 !important;
 }
 .c-timestamp__label{
-    color: #ffb088 !important;
+    color: #68c1ff !important;
 }
 .c-message__sender{
-color:#a4d677 !important
+color:#2691cc !important
 }
     .c-dialog__footer .c-button {
         background-color: #2ead5c;
@@ -883,7 +883,7 @@ color:#a4d677 !important
             color: #ffffff !important;
         }
         a.c-message__sender_link{
-            color: #a4d677 !important;
+            color: #2691cc !important;
         }
         .ql-editor[aria-label]{
             color: white !important;
@@ -946,16 +946,16 @@ color:#a4d677 !important
                     color: #36D4F6!important;
                 }
                 .c-message .c-button--primary{
-                    background-color: #008952;
+                    background-color: #2691cc;
                 }
                 .c-message_kit__file__meta__text {
                     font-size: 12px;
                     color: #949494 !important;}
                     .msg_input_btn {
-                        background-color: #008952 !important;
+                        background-color: #2691cc !important;
                     }
                     .p-threads_footer__input--legacy .p-message_input_file_button{
-                        background-color: #008952 !important;
+                        background-color: #2691cc !important;
                         color: white;
                     }
                     .sli_briefing{
@@ -1674,7 +1674,7 @@ color:white;}
 
     background: #212121;}
     .btn {
-    background: #008952;
+    background: #2691cc;
     color: #fff !important;}
     .c-button-unstyled:active, .c-button-unstyled:focus, .c-button-unstyled:hover {
     outline: none;
