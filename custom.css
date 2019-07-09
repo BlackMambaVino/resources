@@ -1376,7 +1376,7 @@ color:#f5f5f5;}
     color: #f5f5f5;}
     .c-input_select_options_list__empty_state {
     display: block;
-    /*text-overflow: ellipsis;*/
+    text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
     color: #f5f5f5;}
@@ -1543,7 +1543,7 @@ color:#f5f5f5;}
     background: #3c3c3c;}
     .c-filter_input__input[type=text][placeholder] {
     background: transparent;
-    text-overflow: ellipsis;
+    /*text-overflow: ellipsis;*/
     color: #f5f5f5;}
     .c-link--button:active, .c-link--button:focus, .c-link--button:hover{
     color:#f5f5f5 !important; text-decoration:none}
