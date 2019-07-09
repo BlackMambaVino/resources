@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
 body {
-   font-family: 'Open Sans', sans-serif !important;
+   font-family: 'Lato', sans-serif !important;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
-   font-family: 'Open Sans', sans-serif !important;
+   font-family: 'Lato', sans-serif !important;
 }
 .p-threads_footer__input--legacy .p-message_input_field .ql-editor {
-  font-family: 'Open Sans', sans-serif !important;
+  font-family: 'Lato', sans-serif !important;
 }
 div.c-message.c-message--light.c-message--hover {
     color: grey !important;
