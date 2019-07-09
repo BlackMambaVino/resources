@@ -20,7 +20,7 @@ div.c-message.c-message--light.c-message--hover {
 .c-message__sender a {
 	font-weight: 600;
 	color: #e5e5e5 !important;
-	font-size: 14px !important;
+	font-size: 16px !important;
 }
 span.c-message__body,a.c-message__sender_link,span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,div.p-message_pane__foreword__description span {
 	color: #e0e0e0;
@@ -635,7 +635,7 @@ a.file_download_link:hover {
 	border-left: 2px solid #ff5656;
 	padding-left: 6px;
 	height: 20px;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	line-height: 16px;
 	font-size: 17px;
 	font-weight:700;
