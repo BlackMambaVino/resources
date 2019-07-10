@@ -20,7 +20,7 @@ div.c-message.c-message--light.c-message--hover {
 	color: #e5e5e5 !important;
 	font-size: 16px !important;
 }
-span.c-message__body,/*a.c-message__sender_link,*/span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,div.p-message_pane__foreword__description span {
+span.c-message__body,a.c-message__sender_link,span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,div.p-message_pane__foreword__description span {
 	color: #e0e0e0;
     font-size: 15px;
     font-weight: 300;
@@ -405,13 +405,14 @@ p-search_filter__date:first-child {
 	margin: 4px 0 -4px;
 }
 .p-file_list a {
-	color: green !important;
+	color: #77dd77 !important;
 }
 .p-downloads_flexpane--list {
-	color: green !important;
+	color: #77dd77 !important;
 }
 .p-channel_sidebar {
-	font-size: 15px !important;
+    font-size: 15px !important;
+    color: #cccccc !important;
 }
 .c-file__meta {
 	background: blue !important;
@@ -495,7 +496,7 @@ a:hover {
 	text-decoration: none !important;
 }
 .c-menu_item__button,.c-menu_item__button:link,.c-menu_item__button:visited {
-	color: #252525 !important;
+	color: #757575 !important;
 }
 .c-menu_item__button:hover,.c-menu_item__button:hover {
 	color: #e5e5e5 !important;
@@ -1728,7 +1729,7 @@ c-keyboard_key {
 	box-shadow: inset 1px 0 0 0 #212121 !important;
 }
 .tab_container .star_item .message .star_jump.msg_right_link, .tab_container .star_item ts-message .star_jump.msg_right_link{
-	background:black
+	background: #212121;
 }
 [lang] .c-message_kit__message {
 	font-size: 15px;
@@ -1747,7 +1748,7 @@ c-keyboard_key {
 	color: #e5e5e5;
 }
 .CodeMirror-scroll {
-	background: black;
+	background: #212121;
 	color: #e5e5e5;
 }
 .CodeMirror-gutter {
@@ -1770,7 +1771,7 @@ c-keyboard_key {
 }
 .btn {
 	background: #499fcc;
-	color: #fff !important;
+	color: #ffffff !important;
 }
 .c-button-unstyled:active, .c-button-unstyled:focus, .c-button-unstyled:hover {
 	outline: none;
@@ -1816,7 +1817,7 @@ c-keyboard_key {
 	border-radius: 2px;
 	z-index: 99999;
 	position: relative;
-	color: black;
+	color: #212121;
 }
 .c-tabs__tab:hover {
 	color: #e5e5e5;
@@ -1829,7 +1830,7 @@ c-keyboard_key {
 	padding: 8px 10px;
 	line-height: 24px;
 	font-size: 15px;
-	background: TRANSPARENT !important;
+	background: transparent !important;
 }
 .c-message--highlight, .c-message--highlight_yellow_bg {
 	background: #171614;
@@ -2302,8 +2303,8 @@ ts-message .internal_member_link:hover {
 	border-radius: 2px;
 	font-size: 11px;
 	padding: 1px 3px;
-	color: rgba(255, 255, 255, 0.7);
-	background-color: rgb(142, 60, 245);
+	color: rgba(255, 255, 255, 0.83);
+	background-color: #00719b;
 	display: inline-block;
 	height: 14px;
 	line-height: 1.25;
