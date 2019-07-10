@@ -3,8 +3,8 @@
 body {
 	font-family: 'Lato', sans-serif !important;
 	text-rendering: optimizeLegibility !important;
-	/*word-spacing: -1px;*/
-	-webkit-font-smoothing: subpixel-antialiased !important;
+    /*word-spacing: -1px;*/
+	-webkit-font-smoothing: antialiased;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
 	font-family: 'Lato', sans-serif !important;
@@ -257,7 +257,7 @@ a {
 	color: #e5e5e5 !important;
 }
 .c-calendar_month {
-	color: #212121 !important
+	color: #757575 !important;
 }
 .c-pillow_file__content--collapsed:after {
 	background: linear-gradient(0deg,#192a38,hsla(0,0%,100%,0) 40px) !important;
@@ -276,7 +276,7 @@ a {
 	color: #cacbcc !important;
 }
 .c-mrkdwn__broadcast--mention,.c-mrkdwn__broadcast--mention:hover,.c-mrkdwn__highlight,.c-mrkdwn__mention,.c-mrkdwn__mention:hover,.c-mrkdwn__user_group--mention,.c-mrkdwn__user_group--mention:hover {
-	color: #212121 !important
+	color: #757575 !important;
 }
 #threads_msgs .inline_message_input_container.with_file_upload {
 	border: 2px solid #545454!important;
