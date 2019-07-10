@@ -377,7 +377,7 @@ p-search_filter__date:first-child {
 	font-weight: 700 !important;
 }
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted) .p-channel_sidebar__name {
-	font-weight: bolder !important;
+	font-weight: 900 !important;
 }
 .p-download_item__container .p-download_item__name_row{
 	color:#e5e5e5 !important
@@ -396,7 +396,7 @@ p-search_filter__date:first-child {
 	color:#e5e5e5;
 }
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name,.p-channel_sidebar__link--unread:not(.p-channel_sidebar__link--selected) .p-channel_sidebar__name,.p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name,.p-channel_sidebar__section_heading_label--clickable:hover,.p-channel_sidebar__section_heading_label--unreads,.p-channel_sidebar__quickswitcher:hover {
-	color: #e5e5e5 !important;
+	color: #80ffaf  !important;
 }
 .p-download_item__actions{
 	background:none;
