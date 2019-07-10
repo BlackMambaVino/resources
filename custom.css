@@ -114,7 +114,7 @@ a {
 }
 .c-member_slug--link {
 	background: transparent;
-	color: #9cdcfe!important;
+	color: #6aaacb!important;
 	font-weight: 700 !important;
 	border: none !important;
 	font-size:13px;
@@ -132,7 +132,7 @@ a {
 }
 .c-member_slug--mention,.c-member_slug--mention:hover {
 	background: #80d0ff !important;
-	color: #212121 !important;
+	color: #757575 !important;
 }
 #convo_tab .message_input,#convo_tab textarea#msg_text {
 	width: 100%;
@@ -1118,7 +1118,7 @@ h1, h2, h3, h4{
 }
 .menu .menu_content {
 	background: #3e3e3e;
-	box-shadow:0px 20px 20px 20px rgba(0,0,0,0.2)
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 .menu_member_header .member_details .member_current_status, .menu_member_header .member_details .member_timezone_value{
 	background: #5b5b5b;
@@ -1131,10 +1131,10 @@ h1, h2, h3, h4{
 	color:#e5e5e5 !important
 }
 .c-message_list__unread_divider__label {
-	background: #f81111;
+	background: #c96c7c;
 	border: 1px solid transparent;
 	text-transform: capitalize;
-	box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 .c-message_list__unread_divider__label{
 	color:#e5e5e5;
@@ -1481,7 +1481,7 @@ pre{
 	color: #e5e5e5;
 }
 #channel_browser .channel_browser_channel_created_info, #channel_browser .channel_browser_channel_invite_info, #channel_browser .channel_browser_channel_shared_info, #channel_browser .channel_browser_private_channel_rollup_info {
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 1.38463;
 	font-weight: initial;
 	color: #c0c0c0;
@@ -2142,7 +2142,7 @@ ts-message .reply_bar:hover {
 	color:#5cf8ad;
 }
 #details_tab .restricted_members_count{
-	color:#e5e5e5
+	color: #e5e5e5;
 }
 .presence_icon:before {
 	color: #31d940 !important;
