@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
 
 body {
 	font-family: 'Lato', sans-serif !important;
 	text-rendering: optimizeLegibility !important;
     /*word-spacing: -1px;*/
-	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-font-smoothing: subpixel-antialiased !important;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
 	font-family: 'Lato', sans-serif !important;
@@ -16,13 +16,14 @@ div.c-message.c-message--light.c-message--hover {
 	color: grey !important;
 }
 .c-message__sender a {
-	font-weight: 600;
+	font-weight: 700;
 	color: #e5e5e5 !important;
 	font-size: 16px !important;
 }
 span.c-message__body,a.c-message__sender_link,span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,div.p-message_pane__foreword__description span {
 	color: #e0e0e0;
-	font-size: 15px;
+    font-size: 15px;
+    font-weight: 300;
 	letter-spacing: 0.3px !important;
 }
 div.c-virtual_list__scroll_container {
@@ -114,7 +115,7 @@ a {
 .c-member_slug--link {
 	background: transparent;
 	color: #9cdcfe!important;
-	font-weight: 600 !important;
+	font-weight: 700 !important;
 	border: none !important;
 	font-size:13px;
 	padding: 0px 2px 1px 2px;
@@ -910,7 +911,7 @@ a.c-message__sender_link{
 }
 .sli_briefing_preview__description_text b {
 	color: #2dffd1;
-	font-weight: 600;
+	font-weight: 700;
 }
 .sli_briefing__message ts-message:not(.for_mention_display):not(.for_search_display):not(.for_top_results_search_display):not(.for_star_display){
 	background-color: #313131;
