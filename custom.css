@@ -1232,7 +1232,7 @@ code{
 }
 .c-reaction:hover {
 	box-shadow: inset 0 0 0 1px rgb(58, 58, 58);
-	background: #868686;
+	background: #595966;
 }
 .c-message_kit__labels__text, .c-icon, .c-menu_item__link_icon, .c-menu_item__shortcut{
 	color: #949494;
@@ -1787,7 +1787,7 @@ c-keyboard_key {
 .CodeMirror {
 	position: relative;
 	overflow: hidden;
-	background: ##212121;
+	background: #212121;
 }
 .c-pillow_file__snippet__content .CodeMirror {
 	height: auto;
