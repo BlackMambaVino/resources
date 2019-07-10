@@ -411,7 +411,7 @@ p-search_filter__date:first-child {
 	color: green !important;
 }
 .p-channel_sidebar {
-	font-size: 14px !important;
+	font-size: 15px !important;
 }
 .c-file__meta {
 	background: blue !important;
@@ -1481,7 +1481,7 @@ pre{
 	color: #e5e5e5;
 }
 #channel_browser .channel_browser_channel_created_info, #channel_browser .channel_browser_channel_invite_info, #channel_browser .channel_browser_channel_shared_info, #channel_browser .channel_browser_private_channel_rollup_info {
-	font-size: 14px;
+	font-size: 15px;
 	line-height: 1.38463;
 	font-weight: initial;
 	color: #c0c0c0;
@@ -1864,7 +1864,7 @@ p-apps_browser__app_limit_meter__paragraph {
 .p-apps_browser__category_header {
 	font-size: 1rem;
 	line-height: 1.2rem;
-	background: TRANSPARENT;
+	background: transparent;
 	color: #e5e5e5;
 	padding-bottom: .5rem;
 }
