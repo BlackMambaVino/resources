@@ -3,10 +3,8 @@
 body {
 	font-family: 'Lato', sans-serif !important;
 	text-rendering: optimizeLegibility !important;
-	word-spacing: -1px;
-	/*-webkit-font-smoothing: auto;
-	*/
-	-webkit-font-smoothing: subpixel-antialiased;
+	/*word-spacing: -1px;*/
+	-webkit-font-smoothing: subpixel-antialiased !important;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
 	font-family: 'Lato', sans-serif !important;
@@ -24,7 +22,7 @@ div.c-message.c-message--light.c-message--hover {
 }
 span.c-message__body,a.c-message__sender_link,span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption,div.p-message_pane__foreword__description span {
 	color: #e0e0e0;
-	font-size: 14px;
+	font-size: 15px;
 	letter-spacing: 0.3px !important;
 }
 div.c-virtual_list__scroll_container {
@@ -122,7 +120,7 @@ a {
 	padding: 0px 2px 1px 2px;
 }
 .c-member_slug--link:hover {
-	background: #499fcc;
+	background: #00719b;
 	color:#fafafa !important
 }
 .menu_content a {
@@ -132,7 +130,7 @@ a {
 	color: #e5e5e5 !important;
 }
 .c-member_slug--mention,.c-member_slug--mention:hover {
-	background: #499fcc !important;
+	background: #80d0ff !important;
 	color: #212121 !important;
 }
 #convo_tab .message_input,#convo_tab textarea#msg_text {
@@ -816,7 +814,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 	color: #e5e5e5 !important;
 }
 a.c-message__sender_link{
-	color: #9cdcfe !important;
+	color: #6aaacb !important;
 }
 .ql-editor[aria-label]{
 	color: #e5e5e5 !important;
