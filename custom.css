@@ -277,7 +277,7 @@ a {
 	color: #cacbcc !important;
 }
 .c-mrkdwn__broadcast--mention,.c-mrkdwn__broadcast--mention:hover,.c-mrkdwn__highlight,.c-mrkdwn__mention,.c-mrkdwn__mention:hover,.c-mrkdwn__user_group--mention,.c-mrkdwn__user_group--mention:hover {
-	color: #757575 !important;
+	color: #212121 !important;
 }
 #threads_msgs .inline_message_input_container.with_file_upload {
 	border: 2px solid #545454!important;
@@ -1220,7 +1220,7 @@ code{
 	text-decoration:none;
 }
 .c-reaction{
-	background: rgb(118, 118, 118);
+    background: #3d3d46;
 }
 .c-reaction__count{
 	color:#e5e5e5
@@ -1563,7 +1563,7 @@ pre{
 	-moz-appearance: none;
 	appearance: none;
 	outline: 0;
-	color: #1d1c1d;
+	color: #757575;
 	background: #2b2b2b;
 }
 .searchable_member_list_filter {
@@ -1878,7 +1878,7 @@ p-apps_browser__app_limit_meter__paragraph {
 .p-apps_browser__app--selected {
 	border-radius: 6px;
 	background: #2b2b2b;
-	border: 1px solid ##212121;
+	border: 1px solid #212121;
 }
 .p-apps_browser__app_limit_meter b {
 	color: #e5e5e5;
