@@ -4,7 +4,7 @@ body {
 	font-family: 'Lato', sans-serif !important;
 	text-rendering: optimizeLegibility !important;
     /*word-spacing: -1px;*/
-	-webkit-font-smoothing: antialiased;
+	-webkit-font-smoothing: subpixel-antialiased;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
 	font-family: 'Lato', sans-serif !important;
@@ -30,7 +30,7 @@ div.c-virtual_list__scroll_container {
 }
 .light_theme ts-message .timestamp {
 	line-height: 18px;
-	opacity: 0;
+	opacity: .7;
 	color: #757575 !important;
 }
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),.p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider {
@@ -859,7 +859,7 @@ a.c-message__sender_link{
 	color:#e5e5e5;
 }
 .c-card_carousel__page_count{
-	color:#212121;
+	color:#757575;
 }
 .c-file__slide--meta{
 	background-color: #393939 !important;
