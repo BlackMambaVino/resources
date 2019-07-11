@@ -2,9 +2,7 @@
 
 body {
     font-family: 'Lato', sans-serif !important;
-    color: #e5e5e5 !important;
 	text-rendering: optimizeLegibility !important;
-    /*word-spacing: -1px;*/
 	-webkit-font-smoothing: subpixel-antialiased !important;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
@@ -14,7 +12,7 @@ body {
 	font-family: 'Lato', sans-serif !important;
 }
 div.c-message.c-message--light.c-message--hover {
-	color: grey !important;
+	color: #9e9e9e !important;
 }
 .c-message__sender a {
 	font-weight: 700;
@@ -633,14 +631,13 @@ a.file_download_link:hover {
 	color: #e5e5e5 !important;
 }
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name{
-	border-left: 2px solid #ff5656;
+	border-left: 2px solid #9cdcfe;
 	padding-left: 6px;
 	height: 20px;
-    /*overflow: hidden;*/
     color: #80ffaf;
 	line-height: 16px;
 	font-size: 17px;
-	font-weight:700;
+	font-weight: 700;
 }
 .p-search_filter__date_readout {
 	color: #ffb28a !important;
@@ -1106,7 +1103,7 @@ textarea.c-input_textarea.c-input_textarea--with_hint {
 	background: #2b2b2b;
 }
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:hover{
-	background: #505050 !important
+	background: #2b2b2b !important
 }
 .c-color_picker__container {
 	color: #e5e5e5 !important;
@@ -1192,9 +1189,6 @@ code{
 }
 .c-menu.p-emoji_picker, .p-emoji_picker__input_container, .p-emoji_picker__heading, .p-emoji_picker__list_container, .p-emoji_picker__footer, .menu #menu_items_scroller{
 	background: #3a3a3a;
-}
-.p-channel_sidebar__channel--selected{
-	background: #3a3a3a !important
 }
 #details_tab .channel_page_section .disclosure_triangle{
 	color:#e5e5e5 !important;
@@ -2111,7 +2105,7 @@ ts-message .reply_bar:hover {
 	border-radius: 6px;
 }
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:hover {
-	background: #343434 !important;
+	background: #2b2b2b !important;
 }
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name{
 	padding-top:2px;
