@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Lato', sans-serif !important;
-    color: #e5e5e5;
+    color: #e5e5e5 !important;
 	text-rendering: optimizeLegibility !important;
     /*word-spacing: -1px;*/
 	-webkit-font-smoothing: subpixel-antialiased !important;
