@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
 
+* {
+    color:  #e0e0e0;
+}
+
 body {
     font-family: 'Lato', sans-serif !important;
 	text-rendering: optimizeLegibility !important;
