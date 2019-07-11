@@ -818,6 +818,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 }
 a.c-message__sender_link{
     color: #6aaacb !important;
+    font-size: 14px;
     font-weight: 700 !important;
 }
 .ql-editor[aria-label]{
@@ -2043,7 +2044,7 @@ hr{
 	color: #e5e5e5;
 }
 .c-reaction--reacted .c-reaction__count {
-	color: #e5e5e5;
+	color: #e5e5e5 !important;
 }
 .c-reaction__count {
 	color: #e5e5e5 !important;
