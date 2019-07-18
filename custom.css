@@ -103,11 +103,11 @@ a {
 	-webkit-tap-highlight-color: transparent;
 }
 .btn_outline.hover,.btn_outline:focus,.btn_outline:hover {
-	background: #fff;
+	background: #80d0ff;
 }
 .btn_outline {
-	background: #f9f9f9;
-	color: #2c2d30!important;
+	background: #499fcc;
+	color: rgba(255,0,0,0.87) !important;
 	font-weight: 700;
 	text-shadow: none;
 }

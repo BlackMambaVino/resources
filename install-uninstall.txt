@@ -1,0 +1,18 @@
+If you want to try it out (easy to reverse, but not scripted)...
+exit your slack then run the script below; then restart Slack and it should be themed:
+>>>\\backroom\Share\Private\IT\Programmers\UX Development\Apps\Slack\Slack Matt-Black Installer.ps1
+
+_____________________________________________
+*Revert back to Slack Default*
+
+Open up an explorer window and enter
+    %homepath%\AppData\Local\slack
+
+pick the folder with the most recent version
+    e.g. app-3.4.3
+
+then open
+    resources\app.asar.unpacked\src\static
+
+Look for *OLDssb-interop.js*
+Rename it back to *ssb-interop.js*
